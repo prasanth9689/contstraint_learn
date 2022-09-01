@@ -3,8 +3,14 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="app/src/main/res/drawable/ic_baseline_notifications_35.xml" value="0.2815" />
+        <entry key="app/src/main/res/drawable/list_divider.xml" value="0.2815" />
+        <entry key="app/src/main/res/drawable/moments_gradient.xml" value="0.2815" />
+        <entry key="app/src/main/res/drawable/my_message_green.xml" value="0.2815" />
         <entry key="app/src/main/res/drawable/round_circle_gold_radius.xml" value="0.132" />
+        <entry key="app/src/main/res/drawable/round_circle_green.xml" value="0.2815" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="app/src/main/res/layout/activity_profile_view.xml" value="0.4" />
       </map>
     </option>
   </component>
